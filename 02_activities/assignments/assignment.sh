@@ -43,4 +43,3 @@ find ./data/processed -type f > ./data/inventory.txt
 ###########################################
 
 echo "Project setup is complete!"
-# I have completed this assignment :)
